@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "quiklyrics-go"
+  },
+  "targets": {
+    "quiklyrics-go": {
+      "hosting": {
+        "h3": [
+          "h3jack"
+        ]
+      }
+    }
+  }
+}
